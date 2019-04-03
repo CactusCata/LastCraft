@@ -1,0 +1,7 @@
+name: LastCraft
+version: 1.0.0
+author: CactusCata
+main: com.gmail.adam.chareyre.Main
+commands:
+    kicks:
+        description: Permet d'ejecter les joueurs du jeu
